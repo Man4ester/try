@@ -2,3 +2,4 @@ Hello world
 Added jUnit tests
 added logic via p2
 rr1 added loig
+logic for p3
